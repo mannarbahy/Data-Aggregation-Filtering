@@ -40,6 +40,6 @@ npm start
 
 ### Accessing the Endpoint
 ```sh
-http://127.0.0.1:5000/customer_details?customer_id=123
+http://127.0.0.1:5000/customer_details?customer_id=2001
 ```
 
